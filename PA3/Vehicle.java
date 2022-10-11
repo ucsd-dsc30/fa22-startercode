@@ -12,8 +12,6 @@ import java.util.ArrayList;
 
 public abstract class Vehicle {
 
-    protected static final String DENIED_PASSENGER_GROUP =
-            "This operation is disabled in your passenger group.";
     private LocalDate date;
     private final String vehicle;
     protected final ArrayList<Passenger> currentPassengers;
