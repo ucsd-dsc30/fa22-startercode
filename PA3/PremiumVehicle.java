@@ -13,7 +13,7 @@ public class PremiumVehicle extends Vehicle{
     private static final String DENIED_PASSENGER_GROUP =
             "This operation is disabled in your passenger group.";
 
-    public PremiumVehicle(String VehicleBrand)
+    public PremiumVehicle(String VehicleName)
             throws OperationDeniedException {
         /*TODO*/
     }

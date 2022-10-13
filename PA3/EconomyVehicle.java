@@ -5,7 +5,7 @@
  */
 public class EconomyVehicle extends Vehicle{
 
-    public EconomyVehicle(String VehicleBrand) {
+    public EconomyVehicle(String VehicleName) {
         /*TODO*/
     }
 
