@@ -24,7 +24,7 @@ public class PremiumVehicle extends Vehicle{
         return false;
     }
 
-    // bmw01 (Premium) [2022-10-08]: [<Value Member> Yunyi]
+    // bmw01 (Premium) [2022-10-08]: [<Value Passenger> Yunyi]
     public String getVehicleInfo() {
         /*TODO*/
         return null;
