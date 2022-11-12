@@ -1,15 +1,15 @@
 /*
- * Name: SOLUTION
- * PID: A12345678
+ * Name: TODO
+ * PID: TODO
  */
 
 import java.util.ArrayList;
 
 /**
- * Solution implementation of the PA8 restaurant class
+ * TODO
  *
- * @author Quentin Callahan
- * @since 11/11/2022
+ * @author TODO
+ * @since TODO
  */
 
 public class Restaurant {
